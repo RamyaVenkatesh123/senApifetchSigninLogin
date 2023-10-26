@@ -1,0 +1,33 @@
+
+.h1 
+ { 
+   color:#d65a84; 
+  
+ } 
+ .container 
+ { 
+     text-align: center; 
+     background-color: aqua;
+     height: 400px;
+     max-width: 400px;
+     padding: 50px;
+     margin-top: 100px;
+     z-index: 1;
+     
+      
+ } 
+ .form{
+    padding: 30px;
+    text-align: center;
+ }
+
+
+ .input-group{
+    padding: 10px;
+   
+ }
+ 
+button{
+    text-align: center;
+    border-radius: 5px;
+}
